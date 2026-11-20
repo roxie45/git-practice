@@ -1,1 +1,2 @@
 My first Git repository
+This line was added on the feature branch.
